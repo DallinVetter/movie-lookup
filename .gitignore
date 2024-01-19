@@ -1,0 +1,19 @@
+# Dependency directory
+**/node_modules/
+
+# Environment variable file
+**/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+
+# Build output
+/dist
+
+# Other
+*.swp
+*.bak
